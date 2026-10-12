@@ -38,3 +38,8 @@ C 언어와 Java의 기본 지식을 바탕으로, 7일 동안 Visual Studio 202
 * **Day 5**: 코드 정리 (메모리 누수 확인 및 C++ 기본기 다듬기)
 * **Day 6**: Wireshark 도구로 데이터가 실제로 차단되는지 눈으로 확인하기
 * **Day 7**: 전체 코드 점검 및 프로젝트 정리
+
+## 학습 기록
+
+- [Day 1 — 실제 진행 기록](docs/learning-log/day-01.md)
+- [새 세션 재개 프롬프트](docs/learning-log/next-session-prompt.md)
